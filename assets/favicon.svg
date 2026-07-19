@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+	<defs>
+		<linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+			<stop offset="0%" stop-color="#7c3aed" />
+			<stop offset="55%" stop-color="#ec4899" />
+			<stop offset="100%" stop-color="#f97316" />
+		</linearGradient>
+	</defs>
+	<rect width="64" height="64" rx="14" fill="url(#g)" />
+	<text x="32" y="43" font-family="Inter, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif" font-weight="800" font-size="30" fill="#ffffff" text-anchor="middle">MS</text>
+</svg>
